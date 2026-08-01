@@ -187,12 +187,8 @@ The extension was built entirely using JavaScript and Chrome Extension Manifest 
 
 ---
 
-# Author
 
-Made with ❤️ by Imperus
 
-GitHub:
-https://github.com/keshavraj7
 
 ---
 
